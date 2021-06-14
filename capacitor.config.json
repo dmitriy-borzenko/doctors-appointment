@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "appointment",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
