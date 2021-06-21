@@ -1,0 +1,46 @@
+.date-text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #5b5b5b;
+}
+
+.container-date-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 8px;
+  width: 86px;
+  height: 92px;
+  background: #f0fbff;
+  border: 1px solid #EDEFF2;
+  box-sizing: border-box;
+  box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.04);
+  border-radius: 6px;
+  display: inline-flex;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.date-week {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color:#5B5B5B;
+}
+.date-number {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  color:#1D201F;
+}
+
+.selected {
+  color: #33bde4;
+}
+.selected-border {
+  border: 1px solid #33bde4;
+}

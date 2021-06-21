@@ -1,0 +1,37 @@
+.card {
+  min-height: 216px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.title-text {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: bold;
+}
+.image {
+  height: 144px;
+  width: 144px;
+  border-radius: 4px;
+  background-color: #ade5f4;
+}
+
+.text-duration {
+  color: #5b5b5b;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.text-duration-bold {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1d201f;
+}
+.padding-vertical {
+  padding-top: 25px;
+  padding-bottom: 8px;
+}
